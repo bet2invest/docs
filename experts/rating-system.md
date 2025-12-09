@@ -1,0 +1,6 @@
+---
+icon: percent
+---
+
+# Rating System
+
