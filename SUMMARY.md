@@ -27,3 +27,11 @@
 
 * [Easiest way to Follow Experts](follow-experts/easiest-way-to-follow-experts.md)
 * [How to Analyse Bankrolls?](follow-experts/how-to-analyse-bankrolls.md)
+
+## Auto-betting
+
+* [Page](auto-betting/page.md)
+* [What is Auto-betting?](auto-betting/what-is-auto-betting.md)
+* [How Auto-betting Works](auto-betting/how-auto-betting-works.md)
+* [Auto-betting Requirements & Limits](auto-betting/auto-betting-requirements-and-limits.md)
+* [Best Practices for Auto-betting](auto-betting/best-practices-for-auto-betting.md)
