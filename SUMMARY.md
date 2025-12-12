@@ -4,8 +4,9 @@
 
 * [Welcome](README.md)
 * [Vision](getting-started/vision.md)
+* [Glossary](getting-started/glossary.md)
 * [Get Started](getting-started/get-started/README.md)
-  * [Become an Expert](getting-started/get-started/become-an-expert.md)
+  * [Become a PRO Expert](getting-started/get-started/become-a-pro-expert.md)
   * [Follow Certified Experts](getting-started/get-started/follow-certified-experts.md)
   * [Analyze Pinnacle Markets](getting-started/get-started/analyze-pinnacle-markets.md)
 * [Premium Features](getting-started/premium-features.md)
@@ -20,12 +21,15 @@
 ## Experts
 
 * [What's an expert?](experts/whats-an-expert.md)
-* [Requirements](experts/requirements.md)
 * [Rating System](experts/rating-system.md)
+* [PRO Requirements](experts/pro-requirements.md)
+* [How PRO Experts Get Paid](experts/how-pro-experts-get-paid.md)
+* [How Expert Prices Are Defined](experts/how-expert-prices-are-defined.md)
 
 ## Follow Experts
 
 * [Easiest way to Follow Experts](follow-experts/easiest-way-to-follow-experts.md)
+* [How do I receive the tips?](follow-experts/how-do-i-receive-the-tips.md)
 * [How to Analyse Bankrolls?](follow-experts/how-to-analyse-bankrolls.md)
 
 ## Auto-betting

@@ -13,5 +13,5 @@ You can use Bet2Invest in different ways depending on your experience and what y
 
 * Beginners can discover proven [experts](/broken/pages/I6Y4fEAry6mV7ep17hiO) and learn how to analyse betting performance.
 * Experienced bettors can deepen their strategy through advanced metrics (CLEV, CLEV, Liquidity...) and market analysis.
-* Tipsters can eventually monetize their expertise by sharing their predictions once they meet the [requirements](experts/requirements.md) and are manually verified by Bet2Invest.
+* Tipsters can eventually monetize their expertise by sharing their predictions once they meet the [requirements](experts/pro-requirements.md) and are manually verified by Bet2Invest.
 

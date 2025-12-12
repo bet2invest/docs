@@ -29,7 +29,7 @@ An Expert on Bet2Invest:
 * **Lets the numbers speak**\
   Their performance is evaluated through objective metrics (yield, CLV/CLEV, sample size, drawdown, liquidity, etc.), summarized later by our [Rating System](rating-system.md).
 
-Some Experts are additionally labeled as **Certified Experts (PROs)**, meaning they meet internal Bet2Invest quality and reliability criteria described in [Requirements](requirements.md).
+Some Experts are additionally labeled as **Certified Experts (PROs)**, meaning they meet internal Bet2Invest quality and reliability criteria described in [Requirements](pro-requirements.md).
 
 {% hint style="info" %}
 On Bet2Invest, “Expert”, “tipster”, and “capper” refer to the same role.\
