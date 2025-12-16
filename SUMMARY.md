@@ -15,6 +15,7 @@
 
 * [What's a Bankroll?](bankrolls/whats-a-bankroll.md)
 * [What's a Unit?](bankrolls/whats-a-unit.md)
+* [Unit Increments & Limits](bankrolls/unit-increments-and-limits.md)
 * [What's Variance?](bankrolls/whats-variance.md)
 * [Why CLV & CLEV Matter](bankrolls/why-clv-and-clev-matter.md)
 * [Best practices](bankrolls/best-practices.md)
@@ -22,10 +23,13 @@
 ## Experts
 
 * [What's an expert?](experts/whats-an-expert.md)
+* [How to Place Tips on Bet2Invest](experts/how-to-place-tips-on-bet2invest.md)
+* [How Picks Are Settled](experts/how-picks-are-settled.md)
 * [Rating System](experts/rating-system.md)
 * [PRO Requirements](experts/pro-requirements.md)
 * [How PRO Experts Get Paid](experts/how-pro-experts-get-paid.md)
 * [How Expert Prices Are Defined](experts/how-expert-prices-are-defined.md)
+* [How to Analyze Pinnacle Odds on Event Markets](experts/how-to-analyze-pinnacle-odds-on-event-markets.md)
 
 ## Follow Experts
 

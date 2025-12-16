@@ -1,7 +1,24 @@
 ---
 icon: chart-network
-cover: ../../.gitbook/assets/abdocs.png
+cover: ../../.gitbook/assets/analyze pinnacle makrets.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Analyze Pinnacle Markets
@@ -26,6 +43,8 @@ On Bet2Invest, you get an interface similar to bookmakers where you can browse:
 * Every **market type**
 
 This is designed to let you analyse the market the same way you would **place a bet**, but with extra analytical layers that are usually not available on bookmaker websites.
+
+If you want a hands-on guide at the event level, see [How to Analyze Pinnacle Odds on Event Markets](../../experts/how-to-analyze-pinnacle-odds-on-event-markets.md).
 
 ***
 
@@ -84,7 +103,7 @@ With all this market history and performance data, you can create strategies bas
 
 This is the foundation of a data‑driven approach: you are not only asking “did I win?”, but also “did I beat the market consistently?”.
 
-To learn how to read performance properly, see [How to Analyse Bankrolls?](/broken/spaces/5n72pwOaMHfHUcwKj6uG/pages/i49LrUfWAbvDG4moIwctn).
+To learn how to read performance properly, see [How to Analyse Bankrolls?](../../follow-experts/how-to-analyse-bankrolls.md).
 
 ***
 

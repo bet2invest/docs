@@ -1,3 +1,25 @@
+---
+cover: ../../.gitbook/assets/get started docs.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Get Started
 
 Bet2Invest makes it easy to follow experts or start analyzing market data. Follow these steps to get up and running.

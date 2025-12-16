@@ -1,6 +1,25 @@
 ---
 description: Discover what Bet2Invest offers and how it stands apart from the competition.
 icon: hand-wave
+cover: .gitbook/assets/welcomedocs.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Welcome

@@ -1,5 +1,24 @@
 ---
 icon: ticket
+cover: ../.gitbook/assets/bankrolls.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # What's a Unit?
@@ -32,7 +51,12 @@ It is a **percentage of your bankroll**, defined by you.
 {% hint style="info" %}
 Most of the time, **we consider 1 unit should be equal to 1% of your bankroll.**
 
-If you bankroll is $1000, your unit should be $10.
+If your bankroll is $1000, your unit should be $10.
+{% endhint %}
+
+{% hint style="info" %}
+By default, stakes can be selected in **0.25U increments** (0.25, 0.5, 0.75, 1, … up to 10).\
+See [Unit Increments & Limits](unit-increments-and-limits.md).
 {% endhint %}
 
 ***
@@ -48,13 +72,13 @@ This is the base for defining your unit value.
 {% endstep %}
 
 {% step %}
-### You decide how much 1 unit represents&#x20;
+### You decide how much 1 unit represents
 
 As mentioned earlier, we recommend 1% of your bankroll, but it can go up to 3%, although it increases the risks.
 {% endstep %}
 
 {% step %}
-### All picks use units, not money&#x20;
+### All picks use units, not money
 
 If a tipster posts “1U”, it means you stake 1% _(or the percentage you have determined)_ of YOUR bankroll, whatever its size.
 {% endstep %}
