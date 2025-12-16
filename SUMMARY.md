@@ -16,6 +16,7 @@
 * [What's a Bankroll?](bankrolls/whats-a-bankroll.md)
 * [What's a Unit?](bankrolls/whats-a-unit.md)
 * [What's Variance?](bankrolls/whats-variance.md)
+* [Why CLV & CLEV Matter](bankrolls/why-clv-and-clev-matter.md)
 * [Best practices](bankrolls/best-practices.md)
 
 ## Experts
@@ -34,8 +35,9 @@
 
 ## Auto-betting
 
-* [Page](auto-betting/page.md)
 * [What is Auto-betting?](auto-betting/what-is-auto-betting.md)
+* [How to Set Up Auto-betting](auto-betting/how-to-set-up-auto-betting.md)
 * [How Auto-betting Works](auto-betting/how-auto-betting-works.md)
 * [Auto-betting Requirements & Limits](auto-betting/auto-betting-requirements-and-limits.md)
+* [Auto-betting Queue System](auto-betting/auto-betting-queue-system.md)
 * [Best Practices for Auto-betting](auto-betting/best-practices-for-auto-betting.md)

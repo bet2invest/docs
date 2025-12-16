@@ -4,8 +4,6 @@ icon: tags
 
 # How Expert Prices Are Defined
 
-## How Expert Prices Are Defined
-
 Expert pricing on Bet2Invest is designed to be **fair for followers** and **rewarding for PRO Experts**, while staying consistent with our data‑driven philosophy.
 
 This page explains how prices are defined for:

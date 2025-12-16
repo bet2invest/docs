@@ -4,8 +4,6 @@ icon: percent
 
 # Rating System
 
-## Rating System
-
 Bet2Invest uses a **unified rating system** to help you quickly understand how strong and reliable an Expert (tipster) is.
 
 Instead of looking at dozens of metrics yourself, you can use the rating as a **shortcut** to compare Experts – while still having full access to detailed stats when you want to dig deeper.

@@ -4,8 +4,6 @@ icon: money-check-dollar-pen
 
 # How PRO Experts Get Paid
 
-## How PRO Experts Get Paid
-
 Bet2Invest allows **PRO Experts** to monetize their strategies in a transparent, rules‑based way. This page explains **how much** you earn and **how revenue is shared** across:
 
 * Individual subscriptions
