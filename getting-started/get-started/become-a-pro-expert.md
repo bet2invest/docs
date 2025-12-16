@@ -75,7 +75,7 @@ Once you reach the required track record (currently **400+ bets and 4%+ yield**)
 
 As a PRO Expert, you can earn money in three ways:
 
-* **Individual subscriptions** – users pay to follow you directly, and you receive **67% of the subscription price**.
+* **Individual subscriptions** – users pay to follow you directly, and you receive **67% of the subscription price (excluding VAT)**.
 * **Picks by Package** – sometimes users purchase picks in packages. You will be paid for the tips you've provided at the same time as the subscriptions are processed, which is on the 5th of each month.&#x20;
 * **B2I One** – if you are selected in B2I One plans, you earn a share of that group subscription alongside other experts.
 
