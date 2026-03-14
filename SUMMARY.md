@@ -26,6 +26,7 @@
 * [How to Place Tips on Bet2Invest](experts/how-to-place-tips-on-bet2invest.md)
 * [How Picks Are Settled](experts/how-picks-are-settled.md)
 * [Rating System](experts/rating-system.md)
+* [How to appear in the leaderboard?](experts/how-to-appear-in-the-leaderboard.md)
 * [PRO Requirements](experts/pro-requirements.md)
 * [How PRO Experts Get Paid](experts/how-pro-experts-get-paid.md)
 * [How Expert Prices Are Defined](experts/how-expert-prices-are-defined.md)
