@@ -20,6 +20,12 @@
 * [Why CLV & CLEV Matter](bankrolls/why-clv-and-clev-matter.md)
 * [Best practices](bankrolls/best-practices.md)
 
+## Sell Your Picks
+
+* [How to sell my picks on Bet2Invest](sell-your-picks/how-to-sell-my-picks-on-bet2invest.md)
+* [Paid Tipster Charter](sell-your-picks/paid-tipster-charter.md)
+* [Why Go Paid?](sell-your-picks/why-go-paid.md)
+
 ## Experts
 
 * [What's an expert?](experts/whats-an-expert.md)
