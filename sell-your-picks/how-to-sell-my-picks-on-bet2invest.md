@@ -135,7 +135,7 @@ If you do not have subscribers, your prices will be reduced. If you wish to main
 Bet2Invest takes a commission on each payment received from your subscribers.
 
 * Prices are configured in **EUR** and automatically converted to the subscriber's currency
-* You have the choice for the payouts between: Bank Transfer, Cryptocurrencies, PayPal or Neteller.
+* You have the choice for the payouts between: Bank Transfer, Cryptocurrencies or PayPal.
 
 ***
 
