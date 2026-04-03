@@ -55,7 +55,7 @@ Here's how it works in practice:
 2. Your picks are tracked on Bet2Invest just like any other tipster
 3. Once you hit the PRO criteria (ROI, pick volume, consistency), Bet2Invest upgrades you automatically
 
-Think of Paid as a way to **monetize while you qualify**, rather than waiting in silence.
+Consider this new "Paid" status as a **way to monetize your picks while waiting to go PRO**, rather than staying on the bench.
 
 ***
 

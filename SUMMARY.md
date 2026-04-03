@@ -25,6 +25,7 @@
 * [How to sell my picks on Bet2Invest](sell-your-picks/how-to-sell-my-picks-on-bet2invest.md)
 * [Paid Tipster Charter](sell-your-picks/paid-tipster-charter.md)
 * [Why Go Paid?](sell-your-picks/why-go-paid.md)
+* [Commission & Revenue](sell-your-picks/commission-and-revenue.md)
 
 ## Experts
 

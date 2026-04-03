@@ -76,6 +76,8 @@ Your subscription allows followers to access all your picks for the duration of 
 
 > Your status remains **inactive** until you set a price. No one can subscribe to you until this step is complete.
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-04-03 at 15.00.36.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### Step 4: Configure pick packs (optional) <a href="#step-4--configure-pick-packs-optional" id="step-4--configure-pick-packs-optional"></a>
@@ -91,11 +93,7 @@ In addition to subscriptions, you can offer **pick packs**; bundles of a fixed n
 
 **Example:**
 
-| Pack | Picks | Price  | Price/pick |
-| ---- | ----- | ------ | ---------- |
-| 1    | 5     | €10    | €2.00      |
-| 2    | 15    | €22.50 | €1.50      |
-| 3    | 50    | €50    | €1.00      |
+<figure><img src="../.gitbook/assets/Screenshot 2026-04-03 at 15.00.45.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
