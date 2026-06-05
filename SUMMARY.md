@@ -11,6 +11,10 @@
   * [Analyze Pinnacle Markets](getting-started/get-started/analyze-pinnacle-markets.md)
 * [Premium Features](getting-started/premium-features.md)
 
+## World Cup Contest
+
+* [Prediction Contest Rules](world-cup-contest/prediction-contest-rules.md)
+
 ## Bankrolls
 
 * [What's a Bankroll?](bankrolls/whats-a-bankroll.md)
